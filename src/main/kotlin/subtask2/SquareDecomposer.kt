@@ -1,5 +1,7 @@
 package subtask2
 
+import kotlin.math.sqrt
+
 class SquareDecomposer {
     
     // TODO: Complete the following function
